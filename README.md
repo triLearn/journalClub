@@ -1,4 +1,4 @@
-**[Home](README.md)** // [Chapter2](listChapter2.md) // [Chapter3](listChapter3.md)
+**[Home](README.md)** // [Chapter2](./deepLearningBook/Chapter2/listChapter2.md) // [Chapter3](./deepLearningBook/Chapter3/listChapter3.md)
 
 # journalClub
 The purpose of this repo is to share code and other resources related to the literature of our journal club.
